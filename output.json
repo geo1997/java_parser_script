@@ -1,0 +1,7 @@
+[ {
+  "filePath" : "E:\\SRE\\project\\sre_practical_test\\src\\main\\java\\com\\sre\\exercise\\controller\\UserController.java",
+  "details" : [ "public     Class                UserController", "public     Method               addUser(UserData)", "public     Method               getUserById(long)", "public     Method               getAllUsers()", "public     Method               updateUser(UserData)", "public     Method               deleteUser(long)", "private    Variable             userService", "public     Constructor          UserController(UserService)" ]
+}, {
+  "filePath" : "E:\\SRE\\project\\sre_practical_test\\src\\main\\java\\com\\sre\\exercise\\service\\UserServiceImpl.java",
+  "details" : [ "public     Class                UserServiceImpl", "public     Method               createUser(UserData)", "public     Method               getUserById(long)", "public     Method               getUsers()", "public     Method               updateUser(UserData)", "public     Method               deleteUserById(long)", "public     Method               checkIfUserExist(String)", "public     Method               userExist(Long)", "private    Method               encodePassword(UserEntity, UserData)", "private    Variable             userRepository", "private    Variable             passwordEncoder", "public     Constructor          UserServiceImpl(UserRepository, PasswordEncoder)", "public     Constructor          UserServiceImpl(UserRepository)" ]
+} ]
